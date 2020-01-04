@@ -128,6 +128,6 @@ set wildoptions=tagfile " `pum` is not supported
 "- The |man.vim| plugin is enabled, to provide the |:Man| command.
 runtime ftplugin/man.vim
 
-"- The |matchit| plugin is enabled. To disable it in your config:
+"- The |matchit| plugin is enabled. To disable it in your config: >
 "    :let loaded_matchit = 1
 runtime macros/matchit.vim
